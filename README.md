@@ -55,7 +55,7 @@ This project is an **interactive Excel dashboard** for visualizing coffee sales 
 
 ## 📎 Screenshot
 
-![Coffee Sales Dashboard](./coffeeOrdersData - Excel 5_18_2025 10_20_18 PM.png)
+[Coffee Sales Dashboard](./coffeeOrdersData - Excel 5_18_2025 10_20_18 PM.png)
 
 ---
 
